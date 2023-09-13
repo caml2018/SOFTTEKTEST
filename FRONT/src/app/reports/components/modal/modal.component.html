@@ -1,0 +1,21 @@
+<ng-container *ngIf="show">
+    <div class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">
+                    {{title}}
+                </h4>
+                <button (click)="hideModal()">cerrar</button>
+            </div>
+            <div class="modal-container">
+                <ng-content></ng-content>
+            </div>
+            <div *ngIf="tableData.length>0"  class="modal-table">
+              <app-table [tableData]="tableData" [displayedColumns]="displayedColumns" (updateEvent)="onUpdateRegister($event)" ></app-table>
+
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</ng-container>

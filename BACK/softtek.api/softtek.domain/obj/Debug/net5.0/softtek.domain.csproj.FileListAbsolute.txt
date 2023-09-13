@@ -1,0 +1,12 @@
+C:\Users\camej\source\repos\SOFTTEKTEST\BACK\softtek.api\softtek.domain\bin\Debug\net5.0\softtek.domain.deps.json
+C:\Users\camej\source\repos\SOFTTEKTEST\BACK\softtek.api\softtek.domain\bin\Debug\net5.0\softtek.domain.dll
+C:\Users\camej\source\repos\SOFTTEKTEST\BACK\softtek.api\softtek.domain\bin\Debug\net5.0\softtek.domain.pdb
+C:\Users\camej\source\repos\SOFTTEKTEST\BACK\softtek.api\softtek.domain\obj\Debug\net5.0\softtek.domain.csproj.AssemblyReference.cache
+C:\Users\camej\source\repos\SOFTTEKTEST\BACK\softtek.api\softtek.domain\obj\Debug\net5.0\softtek.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camej\source\repos\SOFTTEKTEST\BACK\softtek.api\softtek.domain\obj\Debug\net5.0\softtek.domain.AssemblyInfoInputs.cache
+C:\Users\camej\source\repos\SOFTTEKTEST\BACK\softtek.api\softtek.domain\obj\Debug\net5.0\softtek.domain.AssemblyInfo.cs
+C:\Users\camej\source\repos\SOFTTEKTEST\BACK\softtek.api\softtek.domain\obj\Debug\net5.0\softtek.domain.csproj.CoreCompileInputs.cache
+C:\Users\camej\source\repos\SOFTTEKTEST\BACK\softtek.api\softtek.domain\obj\Debug\net5.0\softtek.domain.dll
+C:\Users\camej\source\repos\SOFTTEKTEST\BACK\softtek.api\softtek.domain\obj\Debug\net5.0\refint\softtek.domain.dll
+C:\Users\camej\source\repos\SOFTTEKTEST\BACK\softtek.api\softtek.domain\obj\Debug\net5.0\softtek.domain.pdb
+C:\Users\camej\source\repos\SOFTTEKTEST\BACK\softtek.api\softtek.domain\obj\Debug\net5.0\ref\softtek.domain.dll
